@@ -27,6 +27,13 @@ span{
 	font-weight: bold;
 
 }
+#winner {
+	width: 600px;
+	font-size: 60px;
+	font-weight: bold;
+	color: red;
+}
+
 
 .blue{
 	background-color: dodgerblue;
@@ -47,12 +54,6 @@ button {
 	height: 25px;
 	margin: 10px;
 
-}
-#winner {
-	width: 600px;
-	font-size: 50px;
-	font-weight: bold;
-	color: red;
 }
 
 #computer {
